@@ -1,0 +1,17 @@
+# Dataset
+Dataset/
+
+# Virtual environments
+.venv/
+.venv*/
+
+# Training outputs
+runs/
+*/runs/
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
